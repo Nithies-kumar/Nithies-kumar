@@ -4,7 +4,7 @@
 
 ## 💼 About Me
 
-- 🔭 I’m actively working on backend and full-stack projects using Spring Boot and React.
+- 🔭 I’m actively working on backend and full-stack projects using Spring Boot.
 - 🌱 Currently deepening my knowledge in advanced Spring Security, JWT, and RESTful APIs.
 - 💡 I enjoy solving real-world problems through clean code and practical design patterns.
 - 📚 Constantly honing my skills in both frontend and backend technologies.
